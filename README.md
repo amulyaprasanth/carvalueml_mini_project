@@ -1,4 +1,4 @@
-# CarValueML: AI-Driven Car Price Estimation
+# CarValueML: AI-Driven Car Price Estimation  [![Docker Image CI](https://github.com/amulyaprasanth/carvalueml_mini_project/actions/workflows/docker-image.yml/badge.svg)](https://github.com/amulyaprasanth/carvalueml_mini_project/actions/workflows/docker-image.yml)
 
 CarValueML is an innovative car valuation application leveraging the power of Artificial Intelligence and a user-friendly interface provided by Gradio. This tool is designed to estimate the fair market value of used cars accurately, making it an essential resource for car buyers, sellers, and enthusiasts.
 
